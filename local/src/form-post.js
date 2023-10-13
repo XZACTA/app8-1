@@ -1,4 +1,5 @@
 import React from 'react'
+//create form-post
 
 export default function FormPost() {
     let [postedData, setPostedData] = React.useState('')
